@@ -146,18 +146,3 @@ PNG watermark(PNG firstImage, PNG secondImage) {
 }
 
       
-      // if (orangeDistance < maxHue/2) {
-      //   orangeDistance = orangeDistance;
-      // } else {
-      //   orangeDistance = maxHue - orangeDistance;
-      // }
-      // if (blueDistance < maxHue/2){
-      //   blueDistance = blueDistance;
-      // } else{
-      //   blueDistance = maxHue - blueDistance;
-      // }
-      // if (orangeDistance < blueDistance) {
-      //   orangeHue;
-      // } else {
-      //   blueHue;
-      // }
